@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>Eh.Kickz</h2>
+<h2></h2>
 
 <p></p>
 
