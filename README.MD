@@ -9,7 +9,7 @@
 
 <p></p>
 
-<img src="/images/business%20card.jpg" alt="business card">
+<img src="/images/card.jpg" alt="business card">
 
 </body>
 </html>
