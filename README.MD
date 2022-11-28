@@ -3,9 +3,7 @@
 <body>
 <header>
   <img src="/images/title.jpg" alt"title">
-   <a href="home.html">
-  <img src="/images/title.jpg" alt"title" title="Eh.Kickz">
-  </a>
+   
 </header>
   <hr>
   <nav>
