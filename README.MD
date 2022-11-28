@@ -2,7 +2,7 @@
 <html lang "en">
   
 <html>
-  <title>Eh.Kickz</title>
+  <head>Eh.Kickz</head>
 <img src="images/pic 1/.jpg" />
   <p>w</p>
   </html>
