@@ -2,7 +2,7 @@
 <head><title>Eh.Kickz-Sneaker Reslling Store</title></head>
 <body>
 <header>
-  <img src="title.jpg" alt"title">
+  <img src="/images/title.jpg" alt"title">
   
 </header>
   <hr>
