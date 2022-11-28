@@ -23,4 +23,4 @@
     </table>
     </nav>
     <hr> 
-   <img src="/business%20card.jpg">
+   <img src="images/card.jpg" alt"card">
