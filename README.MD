@@ -3,6 +3,6 @@
   
 <html>
   <head>Eh.Kickz</head>
-<img src="images/pic 1/.jpg" />
+<img src=/images/pic%201.jpg" />
   <p>w</p>
   </html>
