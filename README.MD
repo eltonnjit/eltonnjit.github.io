@@ -9,7 +9,7 @@
 
 <p></p>
 
-<img src="/images/business%20card.jpg" alt="business card" width="400" height="300">
+<img src="/images/business%20card.jpg" alt="business card" width="200" height="100">
 
 </body>
 </html>
