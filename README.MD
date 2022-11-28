@@ -12,7 +12,7 @@ img {
 
 <h2>Eh.Kickz</h2>
 
-<p>The first image uses the width attribute (set to 128 pixels), but the style in the head section overrides it, and sets the width to 100%.</p>
+<p></p>
 
 <img src="/images/business%20card.jpg" alt="business card" width="100" height="100">
 
