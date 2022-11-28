@@ -2,8 +2,9 @@
 <head><title>Eh.Kickz-Sneaker Reslling Store</title></head>
 <body>
 <header>
-  <img src="/images/title.jpg" alt"title">
-   
+  <a href="index.html">
+  <img src="/images/title.jpg" alt"title" title="Eh.Kickz">
+  </a>  
 </header>
   <hr>
   <nav>
@@ -17,3 +18,4 @@
     </tr>
 </nav>
 </body>
+
