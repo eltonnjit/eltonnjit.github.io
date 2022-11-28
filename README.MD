@@ -23,4 +23,11 @@
     </table>
     </nav>
     <hr> 
-   <img src="images/card.jpg" alt"card">
+   <img src="images/card.jpg" alt"card" class="center">
+   <img src="/images/panda.dunk.jpg" alt"panda.dunk">
+  
+  
+    
+    
+    
+    </body>
