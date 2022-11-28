@@ -1,11 +1,25 @@
+<!DOCTYPE html>
 <html>
+<head>
+<style>
+/* This style sets the width of all images to 100%: */
+img {
+  width: 100%;
+}
+</style>
+</head>
 <body>
 
-<h2>Eh.Kickz</h2>
+<h2>Width/Height Attributes or Style?</h2>
 
-<p>The alt attribute should reflect the image content, so users who cannot see the image get an understanding of what the image contains:</p>
+<p>The first image uses the width attribute (set to 128 pixels), but the style in the head section overrides it, and sets the width to 100%.</p>
 
-<img src="/unnamed.jpg" alt="unnamed" width="460" height="345">
+<img src="unnamed.jpg" alt="HTML5 Icon" width="128" height="128">
+
+<p>The second image uses the style attribute to set the width to 128 pixels, this will not be overridden by the style in the head section:</p>
+
+<img src="unnamed.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 
 </body>
 </html>
+
