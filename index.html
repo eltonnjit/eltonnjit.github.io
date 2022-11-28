@@ -12,7 +12,7 @@
 <td><a href="brandnew.html">Brand New</a></td> 
 <td><a href="pre-owned.html">Pre-Owned</a></td> 
 <td><a href="sizeandprice.html">Size/Price</a></td> 
-<td><a href-"contactus.html">Contact Us<a/></td>  
+<td><a href="contactus.html">Contact Us<a/></td>  
     </tr>
 </nav>
 </body>
