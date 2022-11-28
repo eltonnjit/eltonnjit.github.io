@@ -16,10 +16,6 @@ img {
 
 <img src="/images/business%20card.jpg" alt="business card" width="100" height="100">
 
-<p>The second image uses the style attribute to set the width to 128 pixels, this will not be overridden by the style in the head section:</p>
-
-<img src="unnamed.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
-
 </body>
 </html>
 
